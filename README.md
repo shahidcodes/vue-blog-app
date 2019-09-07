@@ -1,10 +1,8 @@
-# bollywoodcraze
-
-> bollywoodcraze.in
+# Vue Blog Application
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
