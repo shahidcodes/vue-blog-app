@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "firebase": "^3.6.9",
-    "jquery": "^3.1.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.4",
     "tinymce": "^4.5.3",
     "vue": "^2.1.10",
