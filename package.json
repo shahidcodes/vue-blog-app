@@ -12,7 +12,7 @@
     "firebase": "^3.6.9",
     "jquery": "^3.1.1",
     "lodash": "^4.17.4",
-    "tinymce": "^4.5.3",
+    "tinymce": "^5.10.0",
     "vue": "^2.1.10",
     "vue-disqus": "^2.0.1",
     "vue-router": "^2.2.0",
